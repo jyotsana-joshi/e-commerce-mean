@@ -1,0 +1,6 @@
+/node_modules
+.env
+/src/environments/
+package-lock.json
+backend/package-lock.json
+/upload/*
